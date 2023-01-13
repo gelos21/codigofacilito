@@ -1,0 +1,351 @@
+Codigo Articulo;Nombre Articulo;Precio coste medio;Stock;Stock Disponible;Stock Mínimo
+PH 7010;S.A.I. Phasak trifásica-trifásica 10000 VA Online;0,00;0;0;0
+PH 7015;S.A.I. Phasak trifásica-trifásica 15000 VA Online;0,00;0;0;0
+PH 7020;S.A.I. Phasak trifásica-trifásica 20000 VA Online;0,00;0;0;0
+PH 7030;S.A.I. Phasak trifásica-trifásica 30000 VA Online;0,00;0;0;0
+PH 7040;S.A.I. Phasak trifásica-trifásica 40000 VA Online;0,00;0;0;0
+PH 7060;S.A.I. Phasak trifásica-trifásica 60000 VA Online;0,00;0;0;0
+PH 7062;Bateria suplementar (40bat64Amp) para PH 7060;0,00;0;0;0
+PH 7080;S.A.I. Phasak trifásica-trifásica 80000 VA Online;0,00;0;0;0
+PH 7100;S.A.I. Phasak trifásica-trifásica 100000 VA Online;0,00;0;0;0
+PH 7120;S.A.I. Phasak trifásica-trifásica 120000 VA Online;0,00;0;0;0
+PH 7210;S.A.I. Phasak OTTIMA 1060VA Interactive;36,17;183;153;180
+PH 7266;S.A.I. Phasak OTTIMA  660VA Interactive;20,81;1351;1347;1073
+PH 7288;S.A.I. Phasak OTTIMA  860VA Interactive;26,66;49;49;485
+PH 7312;S.A.I. Phasak SIRIUS 1260VA Interactive;45,00;597;596;299
+PH 7312-RA+;S.A.I. Phasak SIRIUS Recondicionado "Grado A+" 1260VA Interactive;37,46;0;0;0
+PH 7315;S.A.I. Phasak SIRIUS 1560VA Interactive;64,30;186;152;124
+PH 7322;S.A.I. Phasak SIRIUS 2260VA Interactive;75,09;77;77;178
+PH 7322-RA;S.A.I. Phasak SIRIUS Recondicionado "Grado A"  2260VA Interactive;50,00;0;0;0
+PH 7512;S.A.I. Phasak PROTEKT-Rack 1260 V.A. Interactive Pure Sinewave;108,78;29;29;30
+PH 7521;S.A.I. Phasak PROTEKT-Rack 2160 V.A. Interactive Pure Sinewave;124,26;23;22;49
+PH 7530;S.A.I. Phasak PROTEKT-Rack 3060 V.A.  Interactive Pure Sinewave;171,06;0;-1;37
+PH 7610;S.A.I. Phasak PROTEKT 1060VA Interactive Pure Sinewave;84,99;124;124;62
+PH 7621;S.A.I. Phasak PROTEKT 2160 VA Interactive Pure Sinewave;109,81;100;100;52
+PH 7631;S.A.I. Phasak PROTEKT 3160VA Interactive Pure Sinewave;189,54;49;49;25
+PH 7690;Módulo SNMP para UPS serie Protekt Phasak;70,98;36;33;18
+PH 8010;SAI  Phasak Conqueror Pro Online LCD 1000 VA;116,96;78;78;39
+PH 8010-RA+;S.A.I. Phasak Conqueror Recondicionado "Grado A+" Pro 1000VA ONLINE LCD;93,70;0;0;0
+PH 8020;SAI  Phasak Conqueror Pro Online LCD 2000 VA;161,82;39;39;34
+PH 8022;Banco para Baterías solo carcasa (x12 baterias de 12v-9Ah) para PH 8020;98,55;0;0;0
+PH 8030;SAI  Phasak Conqueror Pro Online LCD 3000 VA;211,69;108;108;74
+PH 8030-RA;UPS Phasak Conqueror Recondicionada "Grau A"  Pro 3000 VA ONLINE LCD;0,00;0;0;0
+PH 8030-RA+;S.A.I. Phasak Conqueror Recondicionado "Grado A+"  Pro 3000 VA ONLINE LCD;177,00;0;0;0
+PH 8032;Banco para Baterías solo carcasa (x12 baterias de 12V-9Ah) para PH 8030;96,80;5;5;6
+PH 8119;Router Wireless PHASAK switch 4p +1p WAN 54Mbp;55,50;23;23;0
+PH 8130;Punto acceso exterior PHASAK Starkey 54Mbp;98,00;0;0;0
+PH 8130-OUT;Punto acceso exterior PHASAK Starkey 54Mbp - caja dañada produto ok;98,00;2;2;0
+PH 8200;Tarjeta de red PCMCIA PHASAK Wireless 11 Mbps;42,22;21;21;0
+PH 8210;Oferta adaptador PHASAK USB a red Wireless 11 Mbps;0,00;68;68;0
+PH 8211;Adaptador PHASAK USB a Wireless 54 Mbs.;1,80;6;6;0
+PH 8250;Tarjeta PCMCIA cardbus PHASAK WiFi 802.11g 54 Mbps;13,24;26;26;0
+PH 9005;Cable de alimentacion S.A.I.  PHASAK 2.50 m.;4,20;1;1;0
+PH 9010;Cable de conexión de baterias suplementarias 30 cm;5,96;16;16;0
+PH 9020;Cable de conexión de baterias suplementarias 2 m.;9,63;29;29;0
+PH 9030;Cable de baterias sin terminación 2 m.;6,09;48;48;0
+PH 9100;Modulo SNMP para S.A.I. Phasak con Intelligent Slot;58,06;1;0;25
+PH 9101;Modbus card Tarjeta de comunicación  Protocolo RTU RS-485;67,15;3;3;2
+PH 9102;Kit de guías desplazables para S.A.I. Phasak Online de Rack;28,13;3;3;6
+PH 9103;Modulo comunicación Relés Contacto seco AS-400 9pin;51,06;4;4;2
+PH 9106;Kit Instalación función en paralelo Galleon 6k/10k;30,22;1;1;1
+PH 9110;Kit Instalación función en paralelo Galleon Rack 10k;28,04;2;2;0
+PH 9161;Kit Instalación función en paralelo Galleon Rack 6k;28,04;2;2;0
+PH 9171;Kit para instalacion en paralelo del  Galleon Tri-Mono 10k;30,67;2;2;0
+PH 9181;Kit Instalación función en paralelo Galleon 15k/20k;35,05;2;2;0
+PH 9200;PDU switch Bypass PHASAK–RACK 19";63,24;0;0;1
+PH 9201;PDU 8 tomas IEC 320 C-13 Smart Rack 1u 19";40,00;1;1;0
+PH 9205;ATS 16A 19" RACK automatic transfer switch Phasak;291,00;0;0;2
+PH 9210;S.A.I. PHASAK Online  1000 VA LCD;117,57;234;234;160
+PH 9210-RB;S.A.I. Phasak Recondicionado"Grado B" Gate Pro 1000 VA Online LCD;59,00;1;1;0
+PH 9220;S.A.I. PHASAK Online  2000 VA LCD;168,79;72;72;130
+PH 9230;S.A.I. PHASAK Online  3000 VA LCD;219,23;60;57;129
+PH 9232;Banco para Baterías solo carcasa (x12 baterias de 12v-9Ah) para PH 9230;72,56;3;3;2
+PH 9260;S.A.I. PHASAK Online  6000 VA LCD +Opción SNMP;624,24;42;42;31
+PH 9260-RA+;UPS Phasak Recondicionada "Grau A+" 6000 VA Online LCD;522,00;0;0;0
+PH 9262;Banco para Baterías solo carcasa (x16 baterias de 12V-9Ah) para PH 9260;107,59;0;0;2
+PH 9268;Banco para Baterías solo carcasa (x40 baterias de 12V-9Ah) para PH 9270;206,28;0;-2;3
+PH 9270;S.A.I. PHASAK Online 10000 VA LCD+Opción SNMP;742,02;18;16;17
+PH 9270-RA+;UPS Phasak Pro Recondicionada "Grau A+" 10000 VA Online LCD;613,00;0;0;0
+PH 9273;S.A.I. Phasak  tri-tri / tri-mono 10000 VA Online LCD;1310,27;26;26;13
+PH 9274;Banco para Baterías solo carcasa (x40 baterias de 12V-9Ah) para PH 9273;170,95;4;4;2
+PH 9275;Banco de Baterías suplementarias sólo carcasa  (60bat9Amp) para PH 9273;259,73;1;1;0
+PH 9276;Cable de union de baterias para el PH 9273;12,29;2;2;0
+PH 9282;Banco de Baterías suplementarias só carcaça  (40bat9Amp) para PH 9280;203,90;3;3;1
+PH 9283;SA.I. Phasak trifásica-trifásica  30000 VA Online LCD;2349,91;3;3;2
+PH 9284;S.A.I. Phasak trifásica-trifásica  40000 VA Online LCD;2758,43;1;1;2
+PH 9285;Banco para Baterías solo carcasa (x64 baterias de 12V-9Ah) para PH 9283 / 9284;450,42;5;5;1
+PH 9286;S.A.I. Phasak  tri-tri 60000 VA (no incluye baterias)  Online LCD;2005,40;0;0;0
+PH 9287;Rack para UPS Phasak tri-tri PH 9286 (no incluye baterias);513,61;1;1;1
+PH 9293;S.A.I. Phasak  tri-tri / tri-mono 20000 VA Online LCD;1793,81;6;6;6
+PH 9294;Banco de Baterías suplementarias só carcaça (60bat9Amp) para PH 9293;264,63;3;3;2
+PH 9295;Banco para Baterías solo carcasa (x64 baterias de 12V-9Ah) para PH 9293;323,45;5;5;0
+PH 9301;S.A.I. Phasak Pro-Rack 10000 VA Online LCD 19";890,09;6;6;2
+PH 9310-OUT;S.A.I. Phasak Pro-Rack  1000 VA Online LCD 19" - OUTLET - caja danificada,1 raya;172,19;1;1;0
+PH 9312;Banco para Baterías solo carcasa (x4 baterías de 12V-9Ah) para PH 9310;80,32;1;1;2
+PH 9315;S.A.I. PHASAK Online Rack 19" 1500 VA LCD;237,18;117;117;59
+PH 9315-RA;UPS Phasak Recondicionada "Grau A" Pro-Rack  1500 VA Online LCD 19";0,00;0;0;0
+PH 9315-RB;S.A.I. Phasak reaciondicionado "Grado B" Pro-Rack  1500 VA Online LCD 19";119,00;1;1;0
+PH 9316;Banco para Baterías solo carcasa (x6 baterias de 12V-9Ah) para PH 9315;79,90;4;4;1
+PH 9322;Banco para Baterías solo carcasa (x8 baterias de 12V-9Ah) para PH 9320;84,97;1;1;2
+PH 9330;S.A.I. PHASAK Online Rack 19" 3000 VA LCD ;355,00;42;42;51
+PH 9330-RB;S.A.I. Phasak Pro-Rack Recondicionado "Grado B"  3000 VA Online LCD 19";189,14;1;1;0
+PH 9332;Banco para Baterías solo carcasa (x12 baterias de 12V-9Ah) para PH 9330;81,85;0;-2;0
+PH 9360;S.A.I. Phasak Pro-Rack 6000 VA Online LCD 19";764,07;6;6;2
+PH 9362;Banco para Baterías solo carcasa (x20 baterias de 12V-9Ah) para PH 9360 / 9301;139,54;5;5;2
+PH 9406;S.A.I. PHASAK  BASIC Interactive 600 VA.;22,69;1473;1473;737
+PH 9408;S.A.I. PHASAK  BASIC Interactive 800 VA;27,32;771;770;598
+PH 9408-RB;S.A.I. Phasak Basic Recondicionado "Grado B" Interativo 800 VA;14,38;0;0;0
+PH 9410;S.A.I. PHASAK 1000 VA LCD táctil USB+RJ45;43,00;315;315;325
+PH 9420;S.A.I. PHASAK 2000 VA LCD táctil USB+RJ45;72,27;211;180;257
+PH 9420-RB;S.A.I. Phasak Recondicionado "Grado B" 2000 VA LCD  USB + RJ;37,00;1;1;0
+PH 9464;S.A.I. PHASAK  600 VA LCD táctil USB + RJ45;26,87;260;260;131
+PH 9465;S.A.I. PHASAK  650 VA LCD  USB+RJ;32,56;466;466;234
+PH 9478;S.A.I. Phasak Kryptos 800 VA  USB + RJ + USB Charger;43,12;86;86;54
+PH 9481;S.A.I  Phasak Reactive 800VA.Led;25,61;0;0;0
+PH 9485;S.A.I. PHASAK  850 VA LCD  USB+RJ;40,08;528;528;265
+PHB 1207;Bateria Phasak 12V 7.2 Amp;8,12;1035;1035;518
+PHB 1209;Bateria Phasak 12V 9Amp;10,61;743;741;372
+PHB 268;Banco de baterias (x40-bat-12V-9Amp) para PH 9265/70;0,00;0;0;0
+PHB 275;Banco de baterias (x60-bat-12V-9Amp) para PH 9273;0,00;0;0;0
+PHB 282;Banco de baterias (x40-bat-12V-9Amp ) para PH 9280/90;0,00;0;0;0
+PHB 294;Banco de baterias (x60-bat-12V-9Amp ) para PH 9293/83;0,00;0;0;0
+PHB 312;Banco de baterias (x4-bat-12V-9Amp) para PH 9310;0,00;0;0;0
+PHB 316;Banco de Baterias (x6-12V-9Amp) para PH 9315;0,00;0;0;0
+PHB 322;Banco de baterias (x8-12V-9Amp) para PH 9320;0,00;0;0;0
+PHB 332;Banco de Baterias (x12-12V-9Amp) para PH 9330;0,00;0;0;0
+PHB 362;Banco de Baterias (x20-12V-9Amp) para PH 9360/01;0,00;0;0;0
+PHC 1009;Regleta 19"  9 tomas schuko y disyuntor 2U;21,11;0;0;2
+PHC 1012;Regleta 19" 12 tomas schuko y disyuntor 2U.;30,36;0;0;1
+PHC 2107;Armario rack mural 19" Phasak  7U  515x400 desmontado negro;32,14;27;27;14
+PHC 2109;Armario rack mural 19" Phasak  9U  515x400 desmontado negro;42,14;44;44;22
+PHC 2112;Armario rack mural 19" Phasak 12U  515x400 desmontado negro;45,68;0;0;17
+PHC 2112-OUT;-Armario rack mural 19" Phasak 12U  515x400 negro - OUT-montado, 1 poco abollado;46,61;2;1;1
+PHC 2207;Armario rack mural 19" Phasak  7U  600x450 negro;56,65;0;0;5
+PHC 2207-OUT;Rack mural 19" Phasak  7U  600x450 negro - OUT-pintura retocada 1 pc abollado;52,71;1;1;1
+PHC 2209;Armario rack mural 19" Phasak  9U  600x450 negro;59,29;0;0;14
+PHC 2212;Armario rack mural 19" Phasak 12U  600x450 negro;68,05;3;3;8
+PHC 2216;Armario rack mural 19" Phasak 16U  600x450 negro;84,62;9;9;5
+PHC 2220;Armario rack mural 19" Phasak 20U  600x450 negro;93,56;0;0;4
+PHC 2220-OUT;Rack mural 19" Phasak 20U  600x450 negro - un bollo producto ok;93,56;1;1;1
+PHC 3109;Armario rack mural 19" Phasak  9U  600x600 negro;82,64;97;97;49
+PHC 3112;Armario rack mural 19" Phasak 12U  600x600 negro;89,79;21;21;17
+PHC 3112G;Armario rack mural 19" Phasak 12U  600x600 gris;85,42;3;3;0
+PHC 3116;Armario rack mural 19" Phasak 16U  600x600 negro;110,11;10;10;10
+PHC 3120;Armario rack mural 19" Phasak 20U  600x600 negro;121,24;0;0;10
+PHC 3301;Panel guia cables 19" 1U negro;1,25;5;5;10
+PHC 3302;Panel guia cables 19" 2U metálico con estribos negro;1,62;6;6;14
+PHC 4520;Puerta perforada para Rack 19" Phasak 20U 600 negro;27,50;0;0;0
+PHC 4620;Puerta perforada para Rack 19" Phasak 20U 600 negro;27,50;1;1;0
+PHC 4636;Puerta perforada para Rack 19" Phasak 36U 600 negro;46,35;1;1;2
+PHC 4642;Puerta perforada para Rack 19" Phasak 42U 600 negro;55,71;1;1;1
+PHC 4836;Puerta perforada para Rack 19" Phasak 36U 800 negro;98,90;1;1;0
+PHC 4842;Puerta perforada para Rack 19" Phasak 42U 800 negro;112,24;1;1;2
+PHC 5041;Lámpara con interruptor para rack 19" 1U manual;16,37;0;0;1
+PHC 5042;Lámpara con interruptor para rack 19" automatico 1U;23,36;2;2;1
+PHC 5042Z;Lámpara con interruptor para rack 19" automatico 1U;23,36;1;1;0
+PHC 5062;Bandeja 1U telescopica para rack Phasak  600 negro;16,95;7;7;4
+PHC 5062Z;Bandeja 1U telescopica para rack Phasak  600 negro;16,95;1;1;0
+PHC 5082;Bandeja 1U telescópica para rack Phasak  800 negra;20,03;7;7;4
+PHC 5082Z;Bandeja 1U telescópica para rack Phasak  800 negra;19,08;1;1;0
+PHC 5084;Ventilador sistema refrigeración para rack  120x120x25mm;3,93;23;23;2
+PHC 5085;Ventilador sistema refrigeración para rack;7,75;25;25;13
+PHC 5085-OUT;Ventilador sistema refrigeración para rack - 1 soporte dañado;7,75;1;1;1
+PHC 5092;Bandeja 1U telescópica para rack Phasak 1000 negra;27,36;7;7;4
+PHC 5092Z;Bandeja 1U telescópica para rack Phasak 1000 negra;26,06;1;1;0
+PHC 5093;Bandeja 1U fija ajustable para rack Phasak 1000 negra;20,08;6;6;3
+PHC 5111;Cajón frontal  1U rack 19" negra con cerradura;26,06;2;2;1
+PHC 5112;Cajón frontal  2U rack 19" negra con cerradura;30,47;3;3;2
+PHC 5210;Bandeja 1U fija para rack Phasak 1000 negra;13,77;20;20;0
+PHC 5260;Bandeja 1U fija para armarios rack de Phasak  600 negra;7,98;32;32;17
+PHC 5260G;Bandeja 1U fija para rack Phasak  600 gris;7,76;0;-2;0
+PHC 5280;Bandeja 1U fija para rack Phasak  800 negra;8,49;18;18;0
+PHC 5325;Bandeja frontal 19" fija 1U para mural Phasak 250 mm. negra;6,98;48;48;24
+PHC 5332;Bandeja frontal 19" fija 1U para mural Phasak 320 mm. negra;7,59;21;20;20
+PHC 5335;Bandeja frontal 19" fija 2U para mural Phasak 330 mm. negra perforada;8,69;23;23;12
+PHC 5642;Conjunto ventilación 2 coolers 1U negro;29,33;14;14;7
+PHC 5644;Conjunto ventilación 4 coolers 1U negro;43,28;23;23;12
+PHC 5646;Conjunto ventilación 6 coolers 1U negro;51,44;2;2;1
+PHC 5646Z;Conjunto ventilación 6 coolers 1U negro;49,98;0;0;0
+PHC 5652;Conjunto ventilación 2 coolers y termostato 1U negro;38,02;3;3;2
+PHC 5652-OUT;Conjunto ventilación 2 coolers y termostato 1U negro - 1 bollo producto OK;38,02;1;1;1
+PHC 5654;Conjunto ventilación 4 coolers y termostato 1U negro;51,97;4;4;3
+PHC 5655;Conjunto ventilación 4 coolers y termostato digital 1U negro;57,10;3;3;1
+PHC 5656;Conjunto ventilación 6 coolers y termostato 1U negro;60,15;2;2;1
+PHC 5741;Conjunto ventilación 1 coolers y switch para rack Mural;16,76;32;32;16
+PHC 5742;Conjunto ventilación 2 coolers y switch para rack Mural;24,63;12;12;6
+PHC 5751;Conjunto ventilación 1 cooler e termostato Mural;22,94;5;5;3
+PHC 5752;Conjunto ventilación 2 coolers e termostato Mural;31,97;1;1;4
+PHC 6116;Armario rack 19" Phasak  16U 600x 1000 negro 2 bandejas, patas y regleta.;211,55;4;4;2
+PHC 6120;Armario rack 19" Phasak  20U 600x 1000 negro 2 bandejas, patas y regleta.;218,49;8;8;0
+PHC 6126;Armario rack 19" Phasak  26U 600x 1000 negro 2 bandejas, patas y regleta.;245,06;3;3;0
+PHC 6132;Armario rack 19" Phasak  32U 600x 1000 negro 2 bandejas, patas y regleta.;278,93;14;14;0
+PHC 6136;Armario rack 19" Phasak  36U 600x 1000 negro 2 bandejas, patas y regleta.;292,99;21;21;0
+PHC 6142;Armario rack 19" Phasak  42U 600x 1000 negro 2 bandejas, patas y regleta.;321,05;1;1;0
+PHC 6147;Armario rack 19" Phasak  47U 600x 1000 negro 2 bandejas, patas y regleta.;395,47;2;2;0
+PHC 6616;Armario rack 19" Phasak  16U 600x 600 negro 2 bandejas, patas y regleta.;141,93;0;-2;4
+PHC 6620;Armario rack 19" Phasak  20U 600x 600 negro  2 bandejas, patas y regleta.;152,30;7;7;6
+PHC 6620G;Armario rack 19" Phasak  20U 600x 600 gris;116,95;0;-3;0
+PHC 6626;Armario rack 19" Phasak  26U 600x 600 negro 2 bandejas, patas y regleta.;171,04;5;3;6
+PHC 6632;Armario rack 19" Phasak  32U 600x 600 negro 2 bandejas, patas y regleta.;229,33;2;2;5
+PHC 6632G;Armario rack 19" Phasak  32U 600x 600 gris 2 bandejas, patas y regleta.;191,43;1;1;0
+PHC 6636;Armario rack 19" Phasak  36U 600x 600 negro 2 bandejas, patas y regleta.;234,62;7;7;0
+PHC 6642;Armario rack 19" Phasak  42U 600x 600 negro 2 bandejas, patas y regleta.;262,08;10;10;5
+PHC 6816;Armario rack 19" Phasak  16U 600x 800 negro 2 bandejas, patas y regleta.;176,54;0;0;0
+PHC 6820;Armario rack 19" Phasak  20U 600x 800 negro 2 bandejas, patas y regleta.;189,70;3;3;2
+PHC 6826;Armario rack 19" Phasak  26U 600x 800 negro  2 bandejas, patas y regleta.;216,01;0;0;3
+PHC 6832;Armario rack 19" Phasak  32U 600x 800 negro 2 bandejas, patas y regleta.;244,24;0;0;5
+PHC 6836;Armario rack 19" Phasak  36U 600x 800 negro 2 bandejas, patas y regleta.;251,82;10;10;0
+PHC 6842;Armario rack 19" Phasak  42U 600x 800 negro 2 bandejas, patas y regleta.;290,64;1;1;1
+PHC 8136;Armario rack 19" Phasak  36U 800x1000 negro 2 bandejas, patas y regleta.;330,81;5;5;0
+PHC 8142;Armario rack 19" Phasak  42U 800x1000 negro 2 bandejas, patas y regleta.;382,19;4;4;2
+PHC 8147;Armario rack 19" Phasak  47U 800x1000 negro 2 bandejas, patas y regleta.;459,85;1;1;0
+PHC 8836;Armario rack 19" Phasak  36U 800x800 negro 2 bandejas, patas y regleta.;305,69;4;4;0
+PHC 8842;Armario rack 19" Phasak  42U 800x800 negro 2 bandejas, patas y regleta.;331,08;0;0;0
+PHC 9085;Kit 4 ruedas p/rack  2 con freno;13,25;53;53;27
+PHC 9086;Kit 4 ruedas p/rack mural 2 x con freno;9,10;10;10;5
+PHC 9090;Kit 4 pies para rack;5,35;8;8;0
+PHF 6602;Cable de red Flat U/UTP Phasak Cat. 6 certificado CU  2m blanco;0,76;1;1;5
+PHF 6603;Cable de red Flat U/UTP Phasak Cat. 6 certificado CU  3m blanco;0,89;3;3;3
+PHF 6607;Cable de red Flat U/UTP Phasak Cat. 6 certificado CU  7m blanco;1,37;8;8;3
+PHF 6610;Cable de red Flat U/UTP Phasak Cat. 6 certificado CU 10m blanco;2,22;17;17;9
+PHF 6651;Cable de red Flat U/UTP Phasak Cat. 6 certificado CU  1.50m blanco;0,67;23;23;12
+PHF 6703;Cable de red Flat U/UTP Phasak Cat. 6 certificado CU  3m negro;0,82;10;10;5
+PHF 6707;Cable de red Flat U/UTP Phasak Cat. 6 certificado CU  7m negro;1,45;2;2;1
+PHF 6710;Cable de red Flat U/UTP Phasak Cat. 6 certificado CU 10m negro;2,18;2;2;1
+PHF 6715;Cable de red Flat U/UTP Phasak Cat. 6 certificado CU 15m negro;2,62;9;9;0
+PHF 6720;Cable de red Flat U/UTP Phasak Cat. 6 certificado CU 20m negro;4,24;6;6;4
+PHF 6751;Cable de red Flat U/UTP Phasak Cat. 6 certificado CU  1.50m negro;0,66;13;13;7
+PHF 7600;Cable de red Flat U/FTP Phasak Cat. 6 certificado CU  0.50m blanco;0,74;8;8;5
+PHF 7601;Cable de red Flat U/FTP Phasak Cat. 6 certificado CU  1m blanco;0,84;20;20;0
+PHF 7602;Cable de red Flat U/FTP Phasak Cat. 6 certificado CU  2m blanco;1,20;10;10;0
+PHF 7603;Cable de red Flat U/FTP Phasak Cat. 6 certificado CU  3m blanco;1,27;2;2;1
+PHF 7607;Cable de red Flat U/FTP Phasak Cat. 6 certificado CU  7m blanco;2,57;3;3;0
+PHF 7615;Cable de red Flat U/FTP Phasak Cat. 6 certificado CU 15m blanco;4,34;1;1;0
+PHF 7620;Cable de red Flat U/FTP Phasak Cat. 6 certificado CU 20m blanco;5,88;1;1;0
+PHF 7651;Cable de red Flat U/FTP Phasak Cat. 6 certificado CU  1.5m blanco;0,95;5;5;0
+PHF 7652;Cable de red Flat U/FTP Phasak Cat. 6 certificado CU  0.25m negro;0,80;11;11;0
+PHF 7700;Cable de red Flat U/FTP Phasak Cat. 6 certificado CU  0.50m negro;0,72;3;3;0
+PHF 7701;Cable de red Flat U/FTP Phasak Cat. 6 certificado CU  1m negro;0,82;8;8;0
+PHF 7702;Cable de red Flat U/FTP Phasak Cat. 6 certificado CU  2m negro;1,05;1;1;2
+PHF 7707;Cable de red Flat U/FTP Phasak Cat. 6 certificado CU  7m negro;2,51;5;5;0
+PHF 7710;Cable de red Flat U/FTP Phasak Cat. 6 certificado CU 10m negro;3,04;4;4;3
+PHF 7715;Cable de red Flat U/FTP Phasak Cat. 6 certificado CU 15m negro;4,34;0;0;2
+PHF 7751;Cable de red Flat U/FTP Phasak Cat. 6 certificado CU  1.50m negro;0,95;10;10;0
+PHF 7752;Cable de red Flat U/FTP Phasak Cat. 6 certificado CU  0.25m negro;0,68;15;15;0
+PHK 1200;Cable USB 2.0 PHASAK tipo  A-A -  M/H   1.80 m.;0,48;102;92;54
+PHK 1501;Cable de red UTP  Phasak Cat. 6  CCA 26AWG  1 m. gris;0,37;10000;9940;0
+PHK 1502;Cable de red UTP  Phasak Cat. 6  CCA 26AWG  2 m. gris;0,48;5000;4900;0
+PHK 1503;Cable de red UTP  Phasak Cat. 6  CCA 26AWG  3 m. gris;0,59;3997;3897;0
+PHK 1505;Cable de red UTP  Phasak Cat. 6  CCA 26AWG  5 m. gris;0,79;3000;2950;0
+PHK 1507;Cable de red UTP  Phasak Cat. 6  CCA 26AWG  7 m. gris;1,03;200;200;0
+PHK 1510;Cable de red UTP  Phasak Cat. 6  CCA 26AWG 10 m. gris;1,32;200;185;0
+PHK 1515;Cable de red UTP  Phasak Cat. 6  CCA 26AWG 15 m. gris;1,84;200;180;0
+PHK 1520;Cable de red UTP  Phasak Cat. 6  CCA 26AWG 20 m. gris;2,34;30;-10;0
+PHK 1525;Cable de red UTP  Phasak Cat. 6  CCA 26AWG 25 m. gris;2,89;20;20;0
+PHK 1530;Cable de red UTP  Phasak Cat. 6  CCA 26AWG 30 m. gris;3,40;16;16;8
+PHK 1550;Cable de red UTP  Phasak Cat. 6  CCA 26AWG  0.50 m. gris;0,31;6000;5900;0
+PHK 1551;Cable de red UTP  Phasak Cat. 6  CCA 26AWG  1.50 m. gris;0,42;3000;3000;0
+PHK 1552;Cable de red UTP  Phasak Cat. 6  CCA 26AWG  0.25 m. gris;0,29;2000;1985;0
+PHK 1601;Cable de red UTP Phasak Cat. 6  24AWG  1 m. gris;0,45;3000;3000;0
+PHK 1602;Cable de red UTP Phasak Cat. 6  24AWG  2 m. gris;0,67;1500;1500;1000
+PHK 1603;Cable de red UTP Phasak Cat. 6  24AWG  3 m. gris;0,91;1000;1000;500
+PHK 1605;Cable de red UTP Phasak Cat. 6  24AWG  5 m. gris;1,36;500;500;250
+PHK 1607;Cable de red UTP Phasak Cat. 6  24AWG  7 m. gris;1,86;150;150;75
+PHK 1610;Cable de red UTP Phasak Cat. 6  24AWG 10 m. gris;2,49;100;100;0
+PHK 1615;Cable de red UTP  Phasak Cat. 6  24AWG 15m. gris;3,65;60;60;0
+PHK 1620;Cable de red UTP  Phasak Cat. 6  24AWG 20m. gris;4,78;50;50;0
+PHK 1625;Cable de red UTP Phasak Cat. 6  24AWG 25 m. gris;5,91;30;30;15
+PHK 1630;Cable de red UTP  Phasak Cat. 6  24AWG 30m. gris;7,04;30;30;15
+PHK 1650;Cable de red UTP Phasak Cat. 6  24AWG  0.50 m. gris;0,34;1979;1979;990
+PHK 1652;Cable de red UTP Phasak Cat. 6  24AWG  0.25 m. gris;0,28;3000;3000;1500
+PHK 2402;Cable USB 2.0 PHASAK Tipo A-B 1.8m.;0,43;85;35;43
+PHK 3740;Cable HDMI PHASAK 1.4 goldplated M/M  1.50 m.;0,79;318;318;178
+PHK 5800;Cable de red Crossover Phasak  U/UTP Cat.5 CCA  0.50m gris;0,21;38;38;19
+PHK 5801;Cable de red Crossover Phasak  U/UTP Cat.5 CCA  1m gris;0,25;4;4;2
+PHK 5802;Cable de red Crossover Phasak  U/UTP Cat.5 CCA  2m gris;0,41;40;40;20
+PHK 5803;Cable de red Crossover Phasak  U/UTP Cat.5 CCA  3m gris;0,42;19;19;10
+PHK 5805;Cable de red Crossover Phasak  U/UTP Cat.5 CCA  5m gris;0,57;29;29;15
+PHK 5810;Cable de red Crossover Phasak  U/UTP Cat.5 CCA 10m gris;1,02;13;13;8
+PHK 5852;Cable de red Crossover Phasak  U/UTP Cat.5 CCA  0.25m gris;0,19;40;40;20
+PHK 5900;Cable de red Crossover Phasak  F/UTP Cat.5 CCA  0.50m gris;0,34;19;19;10
+PHK 5901;Cable de red Crossover Phasak  F/UTP Cat.5 CCA  1m gris;0,41;12;12;6
+PHK 5902;Cable de red Crossover Phasak  F/UTP Cat.5 CCA  2m gris;0,54;17;17;9
+PHK 5903;Cable de red Crossover Phasak  F/UTP Cat.5 CCA  3m gris;0,65;21;21;11
+PHK 5905;Cable de red Crossover Phasak  F/UTP Cat.5 CCA  5m gris;0,87;18;18;9
+PHK 5910;Cable de red Crossover Phasak  F/UTP Cat.5 CCA 10m gris;1,50;20;20;10
+PHK 8801;Cable de red Crossover Phasak  U/UTP Cat.6 CCA  1m gris;0,45;25;25;0
+PHK 8802;Cable de red Crossover Phasak  U/UTP Cat.6 CCA  2m gris;0,66;57;57;0
+PHK 8900;Cable de red Crossover S/FTP (PiMF) Phasak LSZH Cat.6  CU  0.50m gris;0,55;10;10;0
+PHK 8901;Cable de red Crossover S/FTP (PiMF) Phasak LSZH Cat.6  CU  1m gris;0,67;17;17;0
+PHK 8902;Cable de red Crossover S/FTP (PiMF) Phasak LSZH Cat.6  CU  2m gris;1,04;21;21;12
+PHK 9800;Cable de red S/FTP (PiMF)  LSZH  Phasak Cat.8.1  CU  0.50m negro;3,75;7;7;0
+PHK 9801;Cable de red S/FTP (PiMF)  LSZH  Phasak Cat.8.1  CU  1m negro;4,34;28;28;14
+PHK 9802;Cable de red S/FTP (PiMF)  LSZH  Phasak Cat.8.1  CU  2m negro;5,56;15;15;8
+PHK 9803;Cable de red S/FTP (PiMF)  LSZH  Phasak Cat.8.1  CU  3m negro;6,94;15;15;8
+PHK 9807;Cable de red S/FTP (PiMF)  LSZH  Phasak Cat.8.1  CU  7.5m negro;11,14;5;5;3
+PHK 9810;Cable de red S/FTP (PiMF)  LSZH  Phasak Cat.8.1 CU 10m negro;17,14;1;1;0
+PHK 9815;Cable de red S/FTP (PiMF)  LSZH  Phasak Cat.8.1  CU 15m negro;23,51;2;2;0
+PHK 9820;Cable de red S/FTP (PiMF)  LSZH  Phasak Cat.8.1 CU 20m negro 500Mhz;0,00;0;0;0
+PHK 9825;Cable de red S/FTP (PiMF)  LSZH  Phasak Cat.8.1 CU 25m negro 500Mhz;0,00;0;0;0
+PHK 9852;Cable de red S/FTP (PiMF)  LSZH  Phasak Cat.8.1  CU  0.25m negro;3,88;10;10;5
+PHO 1004;Mural para montaje en pared Phasak 4U negro;6,61;0;0;0
+PHO 1006;Mural para montaje en pared Phasak 6U negro;13,15;0;0;0
+PHO 1016;Regleta 19"  6 tomas schuko e interruptor;14,30;0;0;0
+PHO 1019;Regleta 19"  5 tomas schuko;11,55;12;12;6
+PHO 2106;Armario rack mural 19" Phasak Pro 6U  600x450 negro;66,49;0;0;29
+PHO 2109;Armario rack mural 19" Phasak Pro 9U  600x450 negro;70,74;7;-5;24
+PHO 2112;Armario rack mural 19" Phasak Pro 12U  600x450 negro;80,32;30;30;30
+PHO 2115;Armario rack mural 19" Phasak Pro 15U  600x450 negro;94,09;38;38;19
+PHO 2118;Armario rack mural 19" Phasak Pro 18U  600x450 negro;99,54;15;15;8
+PHO 3109;Armario rack mural 19" Phasak Pro 9U  600x600 negro;88,84;13;13;10
+PHO 3112;Armario rack mural 19" Phasak Pro 12U  600x600 negro;96,81;13;13;17
+PHO 3115;Armario rack mural 19" Phasak Pro 15U  600x600 negro;108,44;0;0;5
+PHO 3118;Armario rack mural 19" Phasak Pro 18U  600x600 negro;118,89;38;38;19
+PHO 4010;Cerradura para puerta frontal de armario rack;2,97;8;8;5
+PHO 4020;Cerradura para puerta lateral de rack;0,70;0;0;0
+PHO 4618;Puerta perforada para Rack 19" Phasak Pro 18U 600 negro;15,62;1;1;1
+PHO 4622;Puerta perforada para Rack 19" Phasak Pro 22U 600 negro;17,41;1;1;1
+PHO 4632;Puerta perforada para Rack 19" Phasak Pro 32U 600 negro;22,12;1;1;1
+PHO 4642;Puerta perforada para Rack 19" Phasak Pro 42U 600 negro;26,50;0;0;1
+PHO 5001;Panel frontal ciego 19" 1U negro;0,81;0;0;0
+PHO 5002;Panel frontal ciego 19" 2U negro;1,45;0;0;0
+PHO 5003;Panel frontal ciego 19" 3U negro;2,74;0;0;2
+PHO 5004;Panel frontal ciego 19" 4U negro;2,25;0;0;0
+PHO 5012;Cajón frontal  2U rack 19" Phasak negro;14,81;0;0;0
+PHO 5030;Termóstato 1U con display 19" para rack Phasak-Pro;39,12;1;1;1
+PHO 5042;Lampara con interruptor para rack´s Phasak azul;3,85;0;0;0
+PHO 5062;Bandeja 1U telescópica para rack Phasak  600 negra;12,38;48;48;24
+PHO 5082;Bandeja 1U telescópica para rack Phasak  800 negra;16,55;0;0;2
+PHO 5085;Ventilador sistema refrigeración para rack;6,10;0;0;0
+PHO 5086;Ventilador substituición sistema refrigeración para rack (2u.);8,64;0;0;2
+PHO 5092;Bandeja 1U telescópica para rack Phasak 1000 negra;17,28;0;0;2
+PHO 5210;Bandeja 1U fija para rack Phasak 1000 negra;9,50;13;13;9
+PHO 5260;Bandeja fija 1U para rack Phasak  600 negra;5,08;0;-5;0
+PHO 5280;Bandeja 1U fija para rack Phasak  800 negra;5,75;0;0;0
+PHO 5325;Bandeja 1U fija para mural Phasak 268 mm. negra;8,24;0;0;4
+PHO 5345;Bandeja 1U fija para mural Phasak 380 mm. negra;8,31;0;0;2
+PHO 5642;Conjunto ventilación 2 coolers 1U negro;18,28;0;0;0
+PHO 5644;Conjunto ventilación 4 coolers 1U negro;39,55;0;0;0
+PHO 5652;Conjunto ventilación 2 coolers y termostato 1U negro;41,46;0;0;2
+PHO 5654;Conjunto ventilación 4 coolers y termostato 1U negro;46,48;0;0;0
+PHO 6122;Armario rack 19" Phasak Pro 22U 600x1000 negro;278,26;3;3;0
+PHO 6127;Armario rack 19" Phasak Pro 27U 600x1000 negro;307,11;0;0;0
+PHO 6132;Armario rack 19" Phasak Pro 32U 600x1000 negro;204,20;0;0;0
+PHO 6137;Armario rack 19" Phasak Pro 37U 600x1000 negro;372,27;1;1;0
+PHO 6142;Armario rack 19" Phasak Pro 42U 600x1000 negro;380,86;0;0;4
+PHO 6147;Armario rack 19" Phasak Pro 47U 600x1000 negro;312,90;0;0;0
+PHO 6618;Armario rack 19" Phasak Pro 18U 600x600 negro;146,01;0;0;0
+PHO 6622;Armario rack 19" Phasak Pro 22U 600x 600 negro 2band,ventilaciónx2,reglet,ruedas;201,49;0;0;2
+PHO 6627;Armario rack 19" Phasak Pro 27U 600x 600 negro 2band,ventilaciónx2,reglet,ruedas;241,48;8;8;4
+PHO 6632;Armario rack 19" Phasak Pro 32U 600x 600 negro;254,95;1;1;1
+PHO 6637;Armario rack 19" Phasak Pro 37U 600x 600 negro;278,38;4;4;0
+PHO 6642;Armario rack 19" Phasak Pro 42U 600x 600 negro 2band,Ventilacionx2,regleta, rued;288,35;0;0;2
+PHO 6822;Armario rack 19" Phasak Pro 22U 600x 800 negro;152,16;0;0;0
+PHO 6832;Armario rack 19" Phasak Pro 32U 600x 800 negro;288,12;2;2;0
+PHO 6837;Armario rack 19" Phasak Pro 37U 600x 800 negro;305,79;0;0;2
+PHO 6842;Armario rack 19" Phasak Pro 42U 600x 800 negro 2band,Ventilacionx2,regleta,rued;244,81;0;0;0
+PHO 8137;Armario rack 19" Phasak Pro 37U 800x1000 negro;318,51;0;0;0
+PHO 8142;Armario rack 19" Phasak Pro 42U 800x1000 negro;349,92;0;0;0
+PHO 8147;Armario rack 19" Phasak Pro 47U 800x1000 negro;369,73;0;0;0
+PHO 8837;Armario rack 19" Phasak Pro 37U 800x 800 negro;227,45;0;0;0
+PHO 8842;Armario rack 19" Phasak Pro 42U 800x 800 negro;392,42;1;1;0
